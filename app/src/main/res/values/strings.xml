@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Memome</string>
+    <string name="action_settings">Settings</string>
+    <string name="min_t">min</string>
+    <string name="delete_all">Delete All</string>
+    <string name="quit">Quit</string>
+    <string name="refresh">Refresh</string>
+    <string name="add">ADD</string>
+    <string name="cancel">CANCEL</string>
+    <string name="invalid_input">Invalid input, try again.</string>
+    <string name="status">status</string>
+    <string name="database_created">Database has been created</string>
+    <string name="date_today">Today</string>
+    <string name="on_create">On create!!!</string>
+    <string name="by_title">By title</string>
+    <string name="by_location">By location</string>
+    <string name="by_start_time">By start time</string>
+    <string name="by_status">By status</string>
+    <string name="sort_event">Sort events by</string>
+    <string name="on_start">On start!!!!!!!!!!!</string>
+    <string name="filter">Filter</string>
+    <string name="nu">Nu</string>
+    <string name="spinner">Spinner</string>
+    <string name="on_restart">On restart!!!!!!!!!!!</string>
+    <string name="on_destroy">On destroy!!!!!!!!!!!</string>
+    <string name="on_pause">On pause!!!!!!!!!!!</string>
+    <string name="on_resume">On resume!!!!!!!!!!!</string>
+    <string name="service_hint">This app needs to access your Google account (via Contacts).</string>
+    <string name="no_network">No network connection available.</string>
+    <string name="Google_api_test">Google Calendar API Android Test</string>
+    <string name="primary">primary</string>
+    <string name="startTime">startTime</string>
+    <string name="notification_id">NOTIFICATION_ID</string>
+    <string name="failed">Failed:</string>
+    <string name="on_forresult">OnActivityResult!!!!!!!!!!!</string>
+    <string name="title_info">title_info</string>
+    <string name="start_time_info">start_time_info</string>
+    <string name="end_time_info">end_time_info</string>
+    <string name="content_info">content_info</string>
+    <string name="location_info">location_info</string>
+    <string name="insert_success">Insert new record successfully</string>
+    <string name="date_invalid">Date invalid!</string>
+    <string name="input_empty">Input is Empty!</string>
+    <string name="end_before_start">End date is before start date!</string>
+    <string name="start_at">Start at:</string>
+    <string name="location_pre">"Location: "</string>
+    <string name="title_pre">Title:</string>
+    <string name="end_at">End at:</string>
+    <string name="content_pre">Content:</string>
+    <string name="Done">Done</string>
+    <string name="startdatetime_hint">StartDateTime</string>
+    <string name="to">To</string>
+    <string name="enddatetime_hint">EndDateTime</string>
+    <string name="save">Save</string>
+    <string-array name="filter_array">
+        <item>By title</item>
+        <item>By location</item>
+        <item>By start time</item>
+    </string-array>
+    <string name="google_maps_api_key">AIzaSyCo7ytOeKL95rKavL9oURKKaQObKCZGgj8</string>
+
+    <string name="SH1A">CE:02:9A:77:5F:AB:12:1B:AA:57:87:C3:A2:03:A3:35:7F:80:5F:A1</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>

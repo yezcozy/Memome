@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "385784845725",
+    "project_id": "memome-7c092"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385784845725:android:501894af21866e07",
+        "android_client_info": {
+          "package_name": "com.mad.memome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385784845725-44cj7h5t6tubdrtsk22idqu1nl1j7pkt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mad.memome",
+            "certificate_hash": "56:CA:E2:B6:B8:14:BE:61:49:54:93:AO:AB:67:84:94:DD:B6:E4:67"
+          }
+        },
+        {
+          "client_id": "385784845725-puvo1dofno34afdh4httlj5n8riasikl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHhhMpXylPzpq5xjEK0wH00KOLoZSkRAE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPink">#EC407A</color>
+
+    <color name="White">#FFFFFF</color>
+    <color name="Green">#339933</color>
+    <color name="Done">#3333cc</color>
+    <color name="Undone">#ffd11a</color>
+
+    <color name="Lt_blue">#3399ff</color>
+    <color name="black">#333333</color>
+    <color name="save">#99cc00</color>
+    <color name="cancel">#ff3300</color>
+    <color name="primary">#315e97</color>
+    <color name="primaryDark">#294E7D</color>
+    <color name="accent">#897dae</color>
+    <color name="accentLight">#ff988db6</color>
+    <color name="background">#eeeeee</color>
+    <color name="lightGray">#e6e6e6</color>
+    <color name="textLightGray">#8f8f8f</color>
+    <color name="textGreyHeader">#ff818181</color>
+    <color name="notificationContentText">#737373</color>
+    <color name="error">#da1b21</color>
+    <color name="my_spinner_text_color">#808080</color>
+    <color name="iconTint">#8e8e8e</color>
+    <color name="default_colour_grey">#8e8e8e</color>
+    <color name="emptyColour">#bababa</color>
+    <color name="startColour">#303F9F</color>
+    <color name="endColour">#5C6BC0</color>
+</resources>
